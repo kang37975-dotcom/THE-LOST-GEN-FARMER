@@ -1,4 +1,40 @@
-<!DOCTYPE html>
+# 🌾 THE-LOST-GEN-FARMER
+
+## Punjab Farm • Fresh Produce • Traditional Agriculture
+
+Welcome to the official profile of **THE-LOST-GEN-FARMER**.
+
+We are building a modern connection between Punjab farming traditions and the next generation of customers.
+
+## 🚜 What We Do
+
+🌱 Farm-fresh vegetables  
+🌾 Punjab-grown grains  
+🥖 Fresh wheat flour (atta)  
+🌿 Seasonal farm products  
+
+## 🌍 Our Vision
+
+To bring authentic farm products directly from our fields to homes while preserving the values of Punjab agriculture.
+
+## 🔨 Projects
+
+- 🌾 Farm-to-home website
+- 📦 Digital ordering system
+- 🚜 Agriculture technology ideas
+- 🌱 Modern farming solutions
+
+## 📍 Location
+
+Punjab, India 🇮🇳
+
+## 🔗 Visit Our Farm Website
+
+(Add your website link here)
+
+---
+
+*"From our soil to your table."* 🌱<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
